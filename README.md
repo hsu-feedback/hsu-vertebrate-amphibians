@@ -1,2 +1,2 @@
 # hsu-vertebrate-amphibians
-Issue tracking for HSU Vertebrate Museum Amphibians data in the VertNet portal (portal.vertnet.org).
+Issue tracking for HSU Vertebrate Apmhibian data in the VertNet and other data portals. This data set corresponds to GBIF data set XXXXX.
