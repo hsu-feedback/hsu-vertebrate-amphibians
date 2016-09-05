@@ -1,0 +1,64 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 11
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "Ascaphus montanus" ; Times: 9
+	Query: "ascaphus montanus" ; Times: 1
+	Query: "Anaxyrus boreas county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Hyla wrightorum" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 924 download events in this period)
+Total number of records downloaded: 880
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+
+
+End of report.
