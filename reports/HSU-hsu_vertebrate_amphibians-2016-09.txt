@@ -1,0 +1,63 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 5
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "Rhyacotriton catalognumber:127" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1972 year &lt;= 1973" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1967 year &lt;= 1968 month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:punctatus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1965 year &lt;= 1966" ; Times: 1
+	Query: "Rhyacotriton variegatus catalognumber:127" ; Times: 2
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 811 download events in this period)
+Total number of records downloaded: 93
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Rhyacotriton variegatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "anaxyrus compactilis" ; Times: 1
+
+
+End of report.
