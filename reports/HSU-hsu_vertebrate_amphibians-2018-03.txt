@@ -1,0 +1,72 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 100
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-07 ; Times: 7
+	Date: 2018-03-26 ; Times: 21
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ferreus county:&#34;del norte&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;del norte&#34;" ; Times: 2
+	Query: "genus:Ascaphus county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 2
+	Query: "genus:Hemisus specificepithet:marmoratus" ; Times: 5
+	Query: "specificepithet:flavipunctatus genus:Aneides county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 3
+	Query: "genus:Phrynomantis" ; Times: 3
+	Query: "genus:Incilius specificepithet:mazatlanensis" ; Times: 6
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 2
+	Query: "specificepithet:tenebrosus county:&#34;del norte&#34;" ; Times: 1
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 2
+	Query: "specificepithet:alvarius stateprovince:&#34;california&#34;" ; Times: 11
+	Query: "specificepithet:monticola genus:Desmognathus county:&#34;Tuscaloosa&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;del norte&#34; year &gt;= 1960" ; Times: 1
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 2
+	Query: "genus:Tomopterna specificepithet:delalandii" ; Times: 2
+	Query: "genus:Ascaphus specificepithet:montanus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1284 download events in this period)
+Total number of records downloaded: 723
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+
+
+End of report.
