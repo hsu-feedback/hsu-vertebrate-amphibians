@@ -1,0 +1,62 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-12 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:HAMMONDII genus:spea catalognumber:69 year &gt;= 1959 year &lt;= 1959" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "county:&#34;harney&#34; institutioncode:HSU" ; Times: 1
+	Query: "anaxyrus boreas halophilus" ; Times: 2
+	Query: "Aneides flavipunctatus sonoma co" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 809 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "county:&#34;harney&#34; institutioncode:HSU" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+
+
+End of report.
