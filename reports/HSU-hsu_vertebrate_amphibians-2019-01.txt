@@ -1,0 +1,59 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 142
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elongatus genus:Plethodon institutioncode:HSU" ; Times: 1
+	Query: "Lithobates vibicarius" ; Times: 2
+	Query: "humboldt state univeristy" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "gbifdatasetid:4cbc1722-e236-4496-8422-d49bb9310d57" ; Times: 1
+	Query: "brachyphona alabama" ; Times: 1
+	Query: "Eurycea wallacei" ; Times: 6
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;del norte&#34;" ; Times: 1
+	Query: "pseudacris brachyphona alabama" ; Times: 1
+	Query: "genus:lithobates county:&#34;mesa&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 962 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "siren intermedia" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+
+
+End of report.
