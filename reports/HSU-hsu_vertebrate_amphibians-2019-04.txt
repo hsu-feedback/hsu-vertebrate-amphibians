@@ -1,0 +1,91 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 570
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-26 ; Times: 4
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:402 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:216 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:602 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "county:&#34;los angeles&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:517 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus lifestage:larva" ; Times: 1
+	Query: "class:Amphibia county:&#34;Humboldt&#34; institutioncode:HSU" ; Times: 4
+	Query: "specificepithet:regilla genus:Pseudacris county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:Plethodon locality:Orick county:&#34;Humboldt&#34;" ; Times: 2
+	Query: "catalognumber:1 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:724 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:614 institutioncode:HSU" ; Times: 2
+	Query: "class:Amphibia institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:vagrans genus:aneides county:&#34;del norte&#34;" ; Times: 1
+	Query: "catalognumber:169 institutioncode:HSU" ; Times: 2
+	Query: "recordedby:P. N. Slattery" ; Times: 1
+	Query: "specificepithet:elongatus genus:Plethodon county:&#34;Humboldt&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma year &gt;= 1962 year &lt;= 1962 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:150 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:vagrans genus:aneides county:&#34;trinity&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:Plethodon county:&#34;Humboldt&#34; year &gt;= 1980" ; Times: 1
+	Query: "catalognumber:168 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:723 institutioncode:HSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1263 download events in this period)
+Total number of records downloaded: 108
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "spea hammondii" ; Times: 2
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "specificepithet:vagrans genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
