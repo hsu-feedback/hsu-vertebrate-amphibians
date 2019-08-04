@@ -1,0 +1,43 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KORBEL" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "Rana aurora" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Incilius mazatlanensis" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+
+
+End of report.
