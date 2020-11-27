@@ -1,0 +1,48 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "eurycea wallacei" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1171 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+	Query: "Diasporus" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+
+
+End of report.
