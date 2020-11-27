@@ -1,0 +1,58 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 16
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens genus:lithobates stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:exsul genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:mavortium genus:Ambystoma stateprovince:&#34;Kansas&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:retiformis genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:compactilis genus:Anaxyrus" ; Times: 2
+	Query: "catalognumber:281 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "specificepithet:mazatlanensis genus:Incilius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 596 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: South Korea ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:monticola genus:Desmognathus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+
+
+End of report.
