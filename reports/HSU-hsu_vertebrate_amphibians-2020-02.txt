@@ -1,0 +1,60 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anaxyrus (boreas halophilus)" ; Times: 1
+	Query: "genus:Dicamptodon lifestage:larval" ; Times: 1
+	Query: "genus:Anaxyrus stateprovince:&#34;California&#34; (boreas halophilus)" ; Times: 3
+	Query: "genus:Dicamptodon lifestage:larvae" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Anaxyrus county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1023 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-15 ; Times: 4
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+
+
+End of report.
