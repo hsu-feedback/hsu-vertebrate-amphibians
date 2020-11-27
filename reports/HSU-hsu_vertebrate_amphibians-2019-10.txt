@@ -1,0 +1,58 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Anaxyrus nelsoni" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:&#34;Virginia&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "albino genus:ambystoma" ; Times: 1
+	Query: "agalychnis dacnicolor sinaloa" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1308 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Anaxyrus nelsoni" ; Times: 3
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+
+
+End of report.
