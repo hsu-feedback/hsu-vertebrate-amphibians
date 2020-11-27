@@ -1,0 +1,53 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:705 institutioncode:HSU" ; Times: 1
+	Query: "AGALYCHNIS SALTATOR" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen order:Caudata lifestage:larval" ; Times: 1
+	Query: "specificepithet:cascadae genus:Rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1367 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 5
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "vntype:specimen order:Caudata lifestage:egg" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+
+
+End of report.
