@@ -1,0 +1,67 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-08 ; Times: 5
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1976" ; Times: 2
+	Query: "genus:hydromantes county:&#34;Shasta&#34;" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "locality:salamander cave" ; Times: 3
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1986 year &lt;= 2020" ; Times: 1
+	Query: "aneides vagrans humboldt county" ; Times: 1
+	Query: "Hyla wrightorum arizona" ; Times: 1
+	Query: "specificepithet:granulosa county:&#34;Siskiyou&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:granulosa county:&#34;SHASTA&#34;" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 976 download events in this period)
+Total number of records downloaded: 742
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+
+
+End of report.
