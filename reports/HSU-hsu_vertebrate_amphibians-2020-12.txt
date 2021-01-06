@@ -1,0 +1,83 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_amphibians
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 4
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vagrans genus:aneides county:&#34;mendocino&#34;" ; Times: 1
+	Query: "genus:dicamptodon county:&#34;shasta&#34;" ; Times: 2
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Plethodon larselli stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Kassina senegalensis" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:wallacei genus:Eurycea stateprovince:&#34;FLorida&#34;" ; Times: 1
+	Query: "genus:hydromantes county:&#34;shasta&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 705 download events in this period)
+Total number of records downloaded: 183
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 26
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "eurycea guttolineata" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "aneides ferreus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:aurora genus:rana county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "specificepithet:speciosus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "genus:hydromantes county:&#34;shasta&#34;" ; Times: 1
+
+
+End of report.
